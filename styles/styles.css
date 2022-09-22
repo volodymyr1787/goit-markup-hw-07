@@ -280,8 +280,6 @@ img {
     visibility: hidden;
 }
 
-.backdrop.is-hidden .modal {}
-
 .modal {
     display: block;
     position: absolute;
