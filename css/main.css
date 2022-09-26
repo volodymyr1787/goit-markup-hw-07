@@ -332,7 +332,7 @@ p {
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal__btn:focus .modal-icon, .modal__btn:hover .modal-icon {
+.modal__btn:focus .modal__icon, .modal__btn:hover .modal__icon {
   fill: var(--accent-color);
 }
 
@@ -391,7 +391,7 @@ p {
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-form_input:hover + .modal-form__logo, .modal-form_input:focus + .modal-form__logo {
+.modal-form__input:hover + .modal-form__logo, .modal-form__input:focus + .modal-form__logo {
   fill: var(--accent-color);
 }
 .modal-form__block--textarea {

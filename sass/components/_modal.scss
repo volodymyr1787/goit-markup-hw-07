@@ -40,8 +40,8 @@
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-&__btn:focus &-icon,
-&__btn:hover &-icon {
+&__btn:focus &__icon,
+&__btn:hover &__icon {
     fill: var(--accent-color);
 }
 }
